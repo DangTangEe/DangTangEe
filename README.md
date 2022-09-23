@@ -1,3 +1,11 @@
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dangtangee)](https://github.com/dangtangee/github-readme-stats)
+
+[![*'s github stats](https://github-readme-stats.vercel.app/api?username=dangtangee)](https://github.com/dangtangee)
+
+
+[![*'s github stats](https://github-readme-stats.vercel.app/api?username=dangtangee&show_icons=true&theme=radical)](https://github.com/dangtangee)
+
 ### Hi there 👋
 
 <!--
