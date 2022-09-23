@@ -3,7 +3,7 @@
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=dangtangee)](https://github.com/dangtangee)
 
-![이미지 제목](picture01.jpg"이미지 설명(마우스 오버)")
+![이미지%20제목](picture01.jpg"이미지 설명(마우스 오버)")
 
 <img src="picture01.jpg">
 
