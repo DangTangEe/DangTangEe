@@ -3,6 +3,7 @@
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=dangtangee)](https://github.com/dangtangee)
 
+<img src="picture01.jpg">
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=dangtangee&show_icons=true&theme=radical)](https://github.com/dangtangee)
 
